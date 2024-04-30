@@ -1,8 +1,4 @@
-"""
-Author - Anant Luthra
-Date - 19/4/22
-Purpose - To make a CLI music player.
-"""
+
 
 import argparse
 import random
